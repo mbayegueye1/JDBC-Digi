@@ -4,8 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.ResourceBundle;
-
-
 public class TestConnexionJdbc {
     private static final String DB_URL;
     private static final  String DB_USER;
@@ -17,16 +15,9 @@ public class TestConnexionJdbc {
         DB_USER = bundle.getString("database.user")  ;
         DB_PWD = bundle.getString("database.pwd");
     }
-
     {
         System.out.println("fin bloc instance");
-
     }
-
-
-
-
-
     public static void main(String[] args) {
 
 
