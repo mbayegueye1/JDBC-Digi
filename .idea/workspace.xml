@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cabe20a-a18c-4c74-9591-e362503b1fd3" name="Changes" comment="TP2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TestDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TestSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/TestUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/entities/Fournisseur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700939310233</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TP2">
+      <created>1700941428592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700941428592</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TP2">
+      <created>1700942159265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700942159265</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

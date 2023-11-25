@@ -3,7 +3,6 @@ package jdbc;
 import jdbc.entities.Fournisseur;
 
 import java.sql.*;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
