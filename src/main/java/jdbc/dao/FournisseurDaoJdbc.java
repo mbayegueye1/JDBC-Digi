@@ -1,3 +1,4 @@
+package jdbc.dao;
 
 import jdbc.TestSelect;
 import jdbc.dao.FournisseurDao;
@@ -6,8 +7,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
-
-import static javax.swing.text.html.parser.DTDConstants.ID;
 
 public class FournisseurDaoJdbc implements FournisseurDao {
     private static final String DB_URL;

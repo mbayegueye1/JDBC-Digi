@@ -19,6 +19,9 @@ public class TestSelect {
         DB_PWD= bundle.getString("database_password");
     }
 
+    public TestSelect(Integer id, String nomFournisseur) {
+    }
+
 
     public static void main(String[] args) {
         System.out.println("Connexion à la base");
