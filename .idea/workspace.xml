@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cabe20a-a18c-4c74-9591-e362503b1fd3" name="Changes" comment="Reprise tp aprs config">
+    <list default="true" id="6cabe20a-a18c-4c74-9591-e362503b1fd3" name="Changes" comment="TP2">
       <change afterPath="$PROJECT_DIR$/src/dataBase.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1700934199216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TP2">
+      <created>1700934842808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700934842808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reprise tp aprs config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reprise tp aprs config" />
+    <MESSAGE value="TP2" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP2" />
   </component>
 </project>
