@@ -31,7 +31,7 @@ public class TestSelect {
                 Fournisseur fournisseur = new Fournisseur(id, nom);
                 fournisseurs.add(fournisseur);
             }
-            st.close();
+
         }
         catch(SQLException e) {
             System.out.println("voici une erreur :" + e.getMessage());

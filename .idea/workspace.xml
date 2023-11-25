@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cabe20a-a18c-4c74-9591-e362503b1fd3" name="Changes" comment="TP2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdbc/TestSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jdbc/TestSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc/TestSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc/TestSelect.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700942987342</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="TP2">
+      <created>1700947250453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700947250453</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
