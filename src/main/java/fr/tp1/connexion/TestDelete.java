@@ -1,9 +1,12 @@
 package fr.tp1.connexion;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ResourceBundle;
 
-public class TestInsertion {
+public class TestDelete {
     private static final String DB_URL;
     private static final String DB_USER;
     private static final String DB_PWD;
@@ -16,10 +19,13 @@ public class TestInsertion {
         DB_PWD = bundle.getString("database.pwd");
     }
     public static void main(String[] args) {
+
+
+
         try (Connection cnx = DriverManager.getConnection(DB_URL, DB_USER, DB_PWD);
              Statement st = cnx.createStatement()) {
 
-            int nb = st.executeUpdate("INSERT INTO FOURNISSEUR (NOM) VALUES ('La Maison de la Peinture'");
+            int nb = st.executeUpdate("DELETE FROM FOURNISSEUR  where nom ='La Maison des Peintures' ");
             System.out.println("Nombre d'éléments modifiés: " + nb);
 
         } catch (SQLException e) {
@@ -33,7 +39,6 @@ public class TestInsertion {
     }
 
 
+
+
 }
-
-
-
